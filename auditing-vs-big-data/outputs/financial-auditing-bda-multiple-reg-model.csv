@@ -1,0 +1,13 @@
+Variable,Estimate a,Std. Error b,t value c,Pr(>|t|) d,Effect,Significance
+(Intercept),7.155,2.066,3.464,0.002,Positive,Yes
+blockchain,-0.304,0.578,-0.526,0.605,Negative,No
+bda,-0.352,0.242,-1.452,0.162,Negative,No
+ai,-12.381,8.126,-1.524,0.143,Negative,No
+fraud,0.083,1.245,0.067,0.947,Positive,No
+risk,-2.431,3.258,-0.746,0.464,Negative,No
+security,-1.185,0.892,-1.328,0.199,Negative,No
+blockchain:bda,0.014,0.048,0.294,0.772,Positive,No
+bda:ai,6.578,4.247,1.549,0.137,Positive,No
+bda:fraud,-0.170,0.225,-0.755,0.459,Negative,No
+bda:risk,0.529,0.656,0.806,0.430,Positive,No
+bda:security,0.145,0.136,1.070,0.297,Positive,No
